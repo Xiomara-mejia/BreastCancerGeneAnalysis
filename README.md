@@ -27,5 +27,12 @@ Volcano plots highlighted significant genes.
 Heatmaps illustrated expression trends across samples.
 For detailed visual output, see the notebook in this repository.
 
+### Survival Analysis by Subtype, Chemotherapy, and Hormone Therapy
+
+This boxplot visualizes patient survival (in months) across different molecular subtypes of breast cancer. It also compares outcomes based on the presence or absence of chemotherapy and hormone therapy.
+
+![Survival Plot](https://github.com/Xiomara-mejia/BreastCancerGeneAnalysis/blob/main/Image%206-29-25%20at%2011.52%20PM.png?raw=true)
+
+
 ## Author
 Xiomara Mejia
